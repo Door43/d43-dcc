@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dcc:home|Door43 (dcc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dcc|d43-dcc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dcc/archive/master.zip|d43-dcc.zip]]
+
+**Recent Changes**
+{{changes>ns = dcc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dcc|Ethnologue data]]
+
